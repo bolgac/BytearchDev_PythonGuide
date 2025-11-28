@@ -26,23 +26,23 @@ It calculates the total size of a directory tree, provides an extension-based si
 ## Installation
 
 Clone the repository:
-```bash
+```
 git clone https://github.com/<username>/Python-Guides.git
 cd Python-Guides/FolderSizeAnalyzer
 
 Run the analyzer:
 python folder_size_analyzer.py /path/to/folder --unit MB --detail
-
+```
 
 Examples:
 ```
-# Analyze current directory
+Analyze current directory
 python folder_size_analyzer.py .
 
-# Analyze with detailed file type distribution
+Analyze with detailed file type distribution
 python folder_size_analyzer.py . --unit GB --detail
 
-# Get size of specific file types (Python files)
+Get size of specific file types (Python files)
 python folder_size_analyzer.py . --detail
 ```
 
@@ -51,3 +51,4 @@ python folder_size_analyzer.py . --detail
 - Telegram: [@bytearchdev](https://t.me/bytearchdev)
 - Email: [BytearchDEV](bytearchsoft@gmail.com)
 - GitHub: [@bolgac](https://github.com/bolgac/)
+
