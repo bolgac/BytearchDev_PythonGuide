@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Platform](https://img.shields.io/badge/Platform-Cross--OS-orange)
 
-This repository contains **guide-level Python projects** focused on file management, system monitoring, and practical utilities.  
+This repository contains the source codes of the beginner to advanced projects I have written in the guides on my blog about Python.
 Each project is designed to be **educational**, with clear documentation and step-by-step explanations.  
 
 👉 For detailed tutorials and articles, visit my blog:  
