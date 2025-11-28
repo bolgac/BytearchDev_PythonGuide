@@ -27,7 +27,7 @@ It calculates the total size of a directory tree, provides an extension-based si
 
 Clone the repository:
 ```
-git clone https://github.com/<username>/Python-Guides.git
+git clone https://github.com/bolgac/BytearchDev_PythonGuide.git
 cd Python-Guides/FolderSizeAnalyzer
 
 Run the analyzer:
@@ -48,5 +48,6 @@ python folder_size_analyzer.py . --detail
 
 
 👉 Full tutorial and explanation available on my blog: [bytearch.hashnode.dev](https://bytearch.hashnode.dev)
+
 
 
