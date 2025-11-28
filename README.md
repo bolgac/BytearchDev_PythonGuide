@@ -7,8 +7,7 @@
 This repository contains the source codes of the beginner to advanced projects I have written in the guides on my blog about Python.
 Each project is designed to be **educational**, with clear documentation and step-by-step explanations.  
 
-👉 For detailed tutorials and articles, visit my blog:  
-[bytearch.hashnode.dev](https://bytearch.hashnode.dev)
+- For detailed tutorials and articles, visit my blog:  [BytearchDEV](bytearch.hashnode.dev)
 
 ---
 
