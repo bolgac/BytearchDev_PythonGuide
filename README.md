@@ -14,10 +14,10 @@ Each project is designed to be **educational**, with clear documentation and ste
 
 ## 📚 Project List
 
-| Project | Description | Blog Post |
-|---------|-------------|-----------|
-| [`FolderSizeAnalyzer`](./FolderSizeAnalyzer) | Analyze folder sizes and file-type distributions | [Guide Article](https://bytearch.hashnode.dev/folder-size-analyzer) |
-| *More coming soon...* | | |
+| Project | Level | Description | Blog Post |
+|---------|-------------|-----------|-----------|
+| [`FolderSizeAnalyzer`](./FolderSizeAnalyzer) | 🟢 Beginner | Analyze folder sizes and file-type distributions | [Guide Article](https://bytearch.hashnode.dev/folder-size-analyzer) |
+| *More coming soon...* | | | | 
 
 ---
 
