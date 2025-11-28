@@ -69,5 +69,5 @@ This repository is licensed under the MIT License. See the LICENSE file for deta
 ## Contacts
 - Blog: [Bytearch Dev](https://bytearch.hashnode.dev)
 - Telegram: [@bytearchdev](https://t.me/bytearchdev)
-- Email: [BytearchDEV](bytearchsoft@gmail.com)
+- Email: bytearchsoft@gmail.com
 - GitHub: [@bolgac](https://github.com/bolgac/)
