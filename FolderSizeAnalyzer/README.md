@@ -46,9 +46,7 @@ Get size of specific file types (Python files)
 python folder_size_analyzer.py . --detail
 ```
 
-## Contacts
-- Blog: [Bytearch Dev](https://bytearch.hashnode.dev)
-- Telegram: [@bytearchdev](https://t.me/bytearchdev)
-- Email: [BytearchDEV](bytearchsoft@gmail.com)
-- GitHub: [@bolgac](https://github.com/bolgac/)
+
+👉 Full tutorial and explanation available on my blog: [bytearch.hashnode.dev](https://bytearch.hashnode.dev)
+
 
