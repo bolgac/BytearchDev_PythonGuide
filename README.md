@@ -30,7 +30,7 @@ Each project is designed to be **educational**, with clear documentation and ste
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/bolgac/Python-Guides.git
+git clone https://github.com/bolgac/BytearchDev_PythonGuide.git
 cd Python-Guides
 Python-Guides/
 ```
