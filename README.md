@@ -31,8 +31,8 @@ Each project is designed to be **educational**, with clear documentation and ste
 Clone the repository:
 ```bash
 git clone https://github.com/bolgac/BytearchDev_PythonGuide.git
-cd Python-Guides
-Python-Guides/
+cd BytearchDev_PythonGuide
+BytearchDev_PythonGuide/
 ```
 
 ---
